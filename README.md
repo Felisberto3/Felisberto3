@@ -1,6 +1,6 @@
 
 
-## Oiii eu sou a Feisberto Alberto, Software Developer!
+## Oiii! eu sou a Feisberto Alberto, Software Developer!
 
 - 🔭 I’m currently working on Back-End(Node Js and Spring Boot)
 - 🌱 I’m currently learning React Native, NextJs, NestJs, Java(SpringBoot)
